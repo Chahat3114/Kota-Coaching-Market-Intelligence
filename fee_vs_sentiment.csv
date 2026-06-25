@@ -1,0 +1,7 @@
+institute,avg_sentiment,comment_count,reliable,annual_fee,locality,exam_focus,value_score
+Vibrant Academy,0.2293888888888889,180,True,151000,Indraprastha Industrial Area,JEE+NEET,0.152
+Bansal Classes,0.14841752767527674,542,True,143000,IPIA,JEE+NEET,0.104
+Motion Education,0.14408350515463916,485,True,123000,RIICO,JEE+NEET,0.117
+Resonance,0.14376601769911504,565,True,130000,IPIA,JEE+NEET,0.111
+Career Point,0.1223506329113924,395,True,125000,IPIA,JEE+NEET,0.098
+Allen,0.11728860971524288,597,True,156000,Indra Vihar,JEE+NEET,0.075
